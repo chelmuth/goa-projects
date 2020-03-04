@@ -1,0 +1,3 @@
+set depot_dir      var/depot
+set public_dir     var/public
+set common_var_dir var/projects
