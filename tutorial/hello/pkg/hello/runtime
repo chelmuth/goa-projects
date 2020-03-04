@@ -1,0 +1,7 @@
+<runtime ram="1M" caps="90" binary="hello">
+	<content>
+		<rom label="hello"/>
+	</content>
+
+	<config ld_verbose="yes"/>
+</runtime>

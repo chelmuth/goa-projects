@@ -1,0 +1,13 @@
+nfeske/raw/ttf-bitstream-vera-minimal
+nfeske/src/bash
+nfeske/src/coreutils
+nfeske/src/fs_rom
+nfeske/src/libc
+nfeske/src/ncurses
+nfeske/src/nit_fb
+nfeske/src/posix
+nfeske/src/terminal
+nfeske/src/vfs
+nfeske/src/vfs_pipe
+nfeske/src/vfs_ttf
+nfeske/src/vim
