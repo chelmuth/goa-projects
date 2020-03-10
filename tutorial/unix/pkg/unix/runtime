@@ -23,6 +23,7 @@
 	<requires>
 		<nitpicker/>
 		<timer/>
+		<file_system label="rw" writeable="yes"/>
 	</requires>
 </runtime>
 
