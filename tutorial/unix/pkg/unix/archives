@@ -6,8 +6,12 @@ nfeske/src/libc
 nfeske/src/ncurses
 nfeske/src/nit_fb
 nfeske/src/posix
+nfeske/src/stdcxx
 nfeske/src/terminal
 nfeske/src/vfs
+nfeske/src/vfs_lwip
 nfeske/src/vfs_pipe
 nfeske/src/vfs_ttf
 nfeske/src/vim
+
+chelmuth/src/netecho

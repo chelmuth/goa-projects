@@ -7,13 +7,16 @@
 		<rom label="libc.lib.so"/>
 		<rom label="libm.lib.so"/>
 		<rom label="ncurses.lib.so"/>
+		<rom label="netecho"/>
 		<rom label="nit_fb"/>
 		<rom label="posix.lib.so"/>
+		<rom label="stdcxx.lib.so"/>
 		<rom label="terminal"/>
 		<rom label="terminal.config"/>
 		<rom label="unix.config"/>
 		<rom label="vfs"/>
 		<rom label="vfs.lib.so"/>
+		<rom label="vfs_lwip.lib.so"/>
 		<rom label="vfs_pipe.lib.so"/>
 		<rom label="vfs_ttf.lib.so"/>
 		<rom label="vim.tar"/>
@@ -24,6 +27,7 @@
 		<nitpicker/>
 		<timer/>
 		<file_system label="rw" writeable="yes"/>
+		<nic label="tap_goa"/>
 	</requires>
 </runtime>
 
