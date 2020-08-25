@@ -4,7 +4,7 @@ nfeske/src/coreutils
 nfeske/src/fs_rom
 nfeske/src/libc
 nfeske/src/ncurses
-nfeske/src/nit_fb
+nfeske/src/gui_fb
 nfeske/src/posix
 nfeske/src/stdcxx
 nfeske/src/terminal
